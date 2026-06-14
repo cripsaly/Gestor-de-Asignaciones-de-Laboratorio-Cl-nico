@@ -1,6 +1,0 @@
-@LabClinicoAPI_HostAddress = http://localhost:5238
-
-GET {{LabClinicoAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
